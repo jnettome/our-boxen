@@ -34,5 +34,16 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+# Personal
+github "vagrant",    "2.0.13"
+github "opera"
+github "imagemagick"
+github "elasticsearch"
+github "elasticsearch"
+github "osx"
+github "shortcat"
+github "macvim"
+github "hipchat"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
